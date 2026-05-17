@@ -33,8 +33,7 @@ visualization.
 
 ## Key Insights- Technology category generated the highest profit- Furniture category showed comparatively lower profitability- West region contributed the highest sales- Sales increased toward year-end- Higher discounts negatively affected profit-
 
-### Retail Business Performance Dashboard
-(Add your dashboard screenshot here)--
+### Retail Business Performance Dashboard : <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3e32e612-9352-4285-8a02-0251efe44af3" />
 
 ## Conclusion
 This project demonstrates end-to-end data analytics workflow using SQL, Python, and Tableau.
@@ -42,4 +41,4 @@ The dashboard provides actionable business insights to improve profitability and
 decision-making.
 
 ## Author
-Harsh Biswa
+Harsh Biswas
