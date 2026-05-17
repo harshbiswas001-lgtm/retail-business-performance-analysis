@@ -22,8 +22,8 @@ visualization.
 # Total Sales- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e1ad7a2c-e516-49a6-bb3c-d0f95887023f" />
 # Total Profit- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9754a1c7-9681-4413-a83f-98b373c551de" />
 # Region-wise Sales- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/533eb97a-8176-4d05-9f39-30b39cae44ba" />
-# Profit by Category- <img width="1476" height="919" alt="Image" src="https://github.com/user-attachments/assets/12925db8-27ef-4979-93c6-64e3e3771b9b" />
-# Monthly Sales Trends-
+# Profit by Category- 
+# Monthly Sales Trends- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3d392473-0e44-47a1-be86-156693cb9303" />
 # Top Loss-Making Products-
 
 ## Python EDA- Sales Distribution Analysis- Correlation Heatmap
