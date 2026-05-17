@@ -20,7 +20,7 @@ visualization.
    
 ## Key SQL Analysis: 
 Total Sales-
-Total Profit-
+Total Profit-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9754a1c7-9681-4413-a83f-98b373c551de" />
 Region-wise Sales-
 Profit by Category-
 Monthly Sales Trends-
