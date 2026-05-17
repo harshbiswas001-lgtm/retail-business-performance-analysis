@@ -26,7 +26,7 @@ visualization.
 # Monthly Sales Trends- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3d392473-0e44-47a1-be86-156693cb9303" />
 # Top Loss-Making Products- <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5181ef87-4af2-4481-9c1f-06df3c73bd92" />
 
-## Python EDA- Sales Distribution Analysis- Correlation Heatmap
+## Python EDA- Sales Distribution Analysis- Correlation Heatmap :<img width="1499" height="918" alt="Image" src="https://github.com/user-attachments/assets/4f1f759a-d7bb-4034-950e-d750a57b4a0d" />
 - Profitability Analysis- Trend Analysis- Inventory & Sales Insights
   
 ## Tableau Dashboard Features: KPI Cards- Monthly Sales Trend- Profit by Category- Region-wise Sales- Interactive Filters-
